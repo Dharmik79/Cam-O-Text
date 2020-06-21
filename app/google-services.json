@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "965678469474",
+    "firebase_url": "https://cam-o-text.firebaseio.com",
+    "project_id": "cam-o-text",
+    "storage_bucket": "cam-o-text.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965678469474:android:40eaaa7bb572cc88981c3b",
+        "android_client_info": {
+          "package_name": "com.example.camotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965678469474-7mbcb152sv70m07r35ki6cajn36nsje6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZueHWhTepa6CLSVIms6D4H-BNSIOrfug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965678469474-7mbcb152sv70m07r35ki6cajn36nsje6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
